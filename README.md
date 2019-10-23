@@ -1,3 +1,10 @@
+# Borked
+
+I've forked for reference.
+New version is here. Happy to take advice on how to merge etc.
+https://github.com/tim-mansell/Secure-Message/
+
+
 #One Time Secret  
 
 ##What is OTS?
